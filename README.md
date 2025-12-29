@@ -165,4 +165,5 @@ The SQL script for creating all tables is available here:
 ### p2_2NF.png — Two tables in 2NF
 ### p3_3NF.png — Final set of tables in 3NF
 ### p4_ERD.png — ER Diagram (screenshot)
+### p4_workbench_diagram.png - workbench EER Diagram
 ### p5_workbench_schema.png — Database schema in MySQL Workbench
