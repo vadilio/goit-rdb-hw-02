@@ -156,13 +156,13 @@ erDiagram
     }
 ```
 
-✅ SQL Schema
+# ✅ SQL Schema
 The SQL script for creating all tables is available here:
 📌 schema.sql
-✅ Screenshots
-All required screenshots are stored in screenshots/ folder:
-p1_1NF.png — Table in 1NF
-p2_2NF.png — Two tables in 2NF
-p3_3NF.png — Final set of tables in 3NF
-p4_ERD.png — ER Diagram (screenshot)
-p5_workbench_schema.png — Database schema in MySQL Workbench
+# ✅ Screenshots
+## All required screenshots are stored in screenshots/ folder:
+### p1_1NF.png — Table in 1NF
+### p2_2NF.png — Two tables in 2NF
+### p3_3NF.png — Final set of tables in 3NF
+### p4_ERD.png — ER Diagram (screenshot)
+### p5_workbench_schema.png — Database schema in MySQL Workbench
